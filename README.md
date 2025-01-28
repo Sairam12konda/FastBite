@@ -45,6 +45,5 @@ This project is an efficient solution for managing orders and enhancing customer
 - Python installed on your system (Python 3.6 or above).
 - Tkinter library (pre-installed with Python).
 
----
 
 
